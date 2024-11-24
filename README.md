@@ -7,7 +7,7 @@
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Vickgansvro/Install-Thema/refs/heads/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Vickgansvro/Install-Thema/main/install.sh)
 ```
 
 ## Fitur Tools :
