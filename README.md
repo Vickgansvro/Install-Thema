@@ -7,7 +7,7 @@
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/SkyzoOffc/Pterodactyl-Theme-Autoinstaller/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Vickgansvro/Install-Thema/refs/heads/main/install.sh)
 ```
 
 ## Fitur Tools :
@@ -15,6 +15,7 @@ bash <(curl -s https://raw.githubusercontent.com/SkyzoOffc/Pterodactyl-Theme-Aut
 - Install Tema Stellar
 - Install Tema Billing
 - Install Tema Enigma
+- Install Tema Arix
 - Uninstall Tema
 
  (Kode Token : skyzodev)
@@ -32,5 +33,5 @@ bash <(curl -s https://raw.githubusercontent.com/SkyzoOffc/Pterodactyl-Theme-Aut
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Credits 
-- Recode By [ Skyzoe ](https://github.com/SkyzoOffc)
+- Recode By [ Skyzoe ](https://github.com/vickygansvro)
 - Created by [ FOXSTORE ](https://github.com/Foxstoree)
